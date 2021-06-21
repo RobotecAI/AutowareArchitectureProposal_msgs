@@ -1,0 +1,1 @@
+Messages extracted from TierIV's AutowareArchitectureProposal (https://github.com/tier4/AutowareArchitectureProposal.proj) used for integration purposes.
